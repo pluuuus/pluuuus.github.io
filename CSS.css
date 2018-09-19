@@ -1,0 +1,58 @@
+.nav{
+    margin-left: 140px;
+    margin-top: 160px;
+}
+.titleword{
+    font-family: "Open Sans" ;
+    margin: 3px 0;
+}
+#name{
+    font-size: 29pt;
+    letter-spacing: 2px;
+}
+#major{
+    font-size: 11pt;
+    letter-spacing: 4px;
+    font-weight: lighter;
+}
+.projects{
+    margin-top: 40px;
+}
+button{
+    font-family: "Open Sans";
+    font-size: 11pt;
+    letter-spacing: 4px;
+    font-weight: lighter;
+    border: 0;
+    background-color: white;
+    width: 300px;
+    margin: 15px auto;
+}
+.content{
+    position: relative;
+    left: 430px;
+    top: -340px;
+    width: 980px;
+}
+.description{
+    margin-left: 200px;
+    font-family: "Open Sans";
+    font-size: 11pt;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    line-height: 25px;
+    margin-top: 30px;
+}
+img{
+    margin-left: 200px;
+    margin-bottom: 25px;
+}
+.nav-b{
+    height: 25px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.nav-b:hover{
+    background-color:black;
+    color: white;
+}
