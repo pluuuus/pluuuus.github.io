@@ -1,6 +1,6 @@
 .nav{
-    margin-left: 140px;
-    margin-top: 160px;
+    margin-left: 5%;
+    margin-top: 10%;
 }
 .titleword{
     font-family: "Open Sans" ;
@@ -30,12 +30,12 @@ button{
 }
 .content{
     position: relative;
-    left: 430px;
-    top: -340px;
-    width: 980px;
+    left: 30%;
+    top: -315px;
+    width: 60%;
 }
 .description{
-    margin-left: 200px;
+    margin-left: 50px;
     font-family: "Open Sans";
     font-size: 11pt;
     letter-spacing: 2px;
@@ -44,7 +44,7 @@ button{
     margin-top: 30px;
 }
 img{
-    margin-left: 200px;
+    margin-left: 10%;
     margin-bottom: 25px;
 }
 .nav-b{
