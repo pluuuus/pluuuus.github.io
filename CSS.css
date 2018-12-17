@@ -4,6 +4,7 @@
 }
 .titleword{
     font-family: "Open Sans" ;
+    src: url('./Open_Sans/OpenSans-Light.ttf'); 
     margin: 3px 0;
 }
 #name{
@@ -20,6 +21,7 @@
 }
 button{
     font-family: "Open Sans";
+    src: url('./Open_Sans/OpenSans-Light.ttf'); 
     font-size: 11pt;
     letter-spacing: 4px;
     font-weight: lighter;
@@ -37,6 +39,7 @@ button{
 .description{
     margin-left: 50px;
     font-family: "Open Sans";
+    src: url('./Open_Sans/OpenSans-Light.ttf'); 
     font-size: 11pt;
     letter-spacing: 2px;
     font-weight: lighter;
