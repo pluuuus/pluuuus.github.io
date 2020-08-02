@@ -1,0 +1,36 @@
+body{
+    
+	background-color: #323249;
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden;
+}
+
+@font-face{
+    font-family :'HARLOWSI';
+    src: url('./fonts/HARLOWSI.TTF');
+    
+}
+
+.back{
+    top: 3%;
+    left:3%;
+    position: absolute;
+}
+
+#backpic{
+    width: 20%;
+}
+
+.4th{
+
+}
+
+#si{
+   font-family :'HARLOWSI';
+   font-size:100px;
+   color: #fff9c0;
+   margin-top: 25%;
+   margin-left: 28%;
+   position: absolute;
+}

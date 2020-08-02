@@ -1,0 +1,85 @@
+body{
+	background-color: #323249;
+	margin: 0; 
+	height: 100%; 
+	overflow: hidden;
+}
+
+
+
+#pic1{
+	width: 30%;
+	margin-left: 23%;
+	margin-top: 20%;
+	position: absolute;
+}
+
+#rope{
+	width: 2%;
+	margin-left: 80%;
+	position: absolute;
+	bottom: 20%;
+}
+.move{
+	position:absolute;
+	bottom: 100px;
+}
+#light00{
+	width: 4%;
+	margin-left:9%;
+	margin-top:60%;
+	position: absolute;
+}
+
+#light22{
+	width: 2.8%;
+	margin-left:35%;
+    bottom: 800px;
+	position: absolute;
+}
+
+#light11{
+	width: 9.5%;
+    bottom: 800px;
+	margin-left:65%;
+	position: absolute;
+}
+
+#light33{
+	width: 8%;
+	margin-left:85%;
+	margin-top: 800px;
+	position: absolute;
+}
+
+.info1{
+	margin-top: 42%;
+	margin-left: 35%;
+	position: absolute;
+}
+
+#designer{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 14px;
+	color: #f4e787;
+	line-height: 26px;
+    display: none;
+	
+}
+
+.info2{
+	margin-top: 42%;
+	margin-left: 55%;
+	position: absolute;
+	
+}
+
+#describe{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 14px;
+	color: #f4e787;
+	line-height: 26px;
+    display: none;
+	
+}
+

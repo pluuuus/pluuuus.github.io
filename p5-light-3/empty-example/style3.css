@@ -1,0 +1,19 @@
+.back{
+    top: 3%;
+    left:3%;
+    position: absolute;
+}
+
+#backpic{
+    width: 20%;
+}
+
+.next{
+    left:90%;
+    top: 50%;
+    position: absolute;
+}
+
+#nextpic{
+    width: 60%;
+}
